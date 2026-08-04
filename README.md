@@ -1,7 +1,8 @@
 <!-- GitHub profile README -->
 
 <p align="center">
-  <img src="assets/github-profile-banner.png" alt="Luis Alberto Antonio Narcizo - Senior QA Automation Engineer and SDET" width="100%" />
+  <!-- REEMPLAZA "TU_ENLACE_DIRECTO_AQUI" CON LA URL PÚBLICA DE TU IMAGEN -->
+  <img src="TU_ENLACE_DIRECTO_AQUI" alt="Luis Alberto Antonio Narcizo - Senior QA Automation Engineer and SDET" width="100%" />
 </p>
 
 <p align="center">
